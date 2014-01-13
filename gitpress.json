@@ -1,0 +1,32 @@
+{
+    "docs"      : {
+            "关于我的博客": "README.md",
+            "html5": "posts/html5",
+            "JavaScript": "posts/JavaScript",
+            "其他": "posts"
+    },       
+    "template"    : "default",
+    "perpage"   : 10,
+    "order"  : "number",
+    "types"     : {
+        "\\.(md||markdown)$"   : "markdown", 
+        "\\.(js||css||json)$"  : "code",
+        "\\.html?$"            : "html",
+        ".*"                   : "text"        
+    },
+    "title"  : "Yao's Blog",
+    "description" : "lalala",
+    "comment"  : {"type":"disqus", "short_name":"gitpress"},
+    "friends"  : [
+        {
+          "name"  : "github",
+          "title"  : "github",
+          "url"  : "http://github.com"          
+        },
+        {
+          "name"  : "gitpress",
+          "title"  : "gitpress",
+          "url"  : "http://gitpress.org"
+        }
+    ] 
+}
