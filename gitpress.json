@@ -6,6 +6,7 @@
             "其他": "posts"
     },       
     "template"    : "default",
+    "domain-alias"  : ["cnblogs.com/xiao-yao"],
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
