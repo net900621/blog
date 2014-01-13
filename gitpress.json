@@ -6,7 +6,6 @@
             "其他": "posts"
     },       
     "template"    : "default",
-    "domain-alias"  : [""],
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
