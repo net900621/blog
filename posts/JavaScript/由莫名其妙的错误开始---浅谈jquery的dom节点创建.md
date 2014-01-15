@@ -1,3 +1,5 @@
+由莫名其妙的错误开始---浅谈jquery的dom节点创建
+
 在一个前端群中，一位老大哥风自由提出了一个简单却很奇特的问题：
 
 有一个字符串是这样的：var s = '<html lang="en" class="js no-touch discourse-no-touch">'+ '<head><meta name="csrf-token" content="Oul7WqVh4FBVse2yGeY8ZkqoN5/9/2ImxohJvUYEJYc="/></head><body></body></html>';
